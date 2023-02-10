@@ -1,3 +1,4 @@
+'''Main file for the application.'''
 import globvar
 import sys
 import gi
@@ -14,3 +15,4 @@ if __name__ == "__main__":
     app = Gtk.Application(application_id="org.gtk.Example")
     app.connect("activate", gui.on_activate)
     app.run(None)
+    

@@ -1,3 +1,4 @@
+'''This is the main GUI file for h2inc-AI'''
 import globvar
 import gi
 
@@ -8,6 +9,12 @@ from gi.repository import Gtk, Gio, GObject  # noqa
 
 class DataObject(GObject.GObject):
     def __init__(self, fruit: str, color: str):
+        """_summary_
+
+        Args:
+            fruit (str): _description_
+            color (str): _description_
+        """
         super(DataObject, self).__init__()
         self.fruit = fruit
         self.color = color
