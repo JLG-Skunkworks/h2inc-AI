@@ -4,7 +4,7 @@ import gi
 import gui
 
 gi.require_version("Gtk", "4.0")
-from gi.repository import Gtk, Gio, GObject  # noqa
+from gi.repository import Gtk # noqa
 
 #global ai
 
