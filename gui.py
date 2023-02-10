@@ -42,7 +42,7 @@ def bind_color(widget, item):
 
 
 def on_activate(app):
-    ver = globvar.ai.getVersion()
+    ver = globvar.AI_class.getVersion()
     win = Gtk.ApplicationWindow(
         application=app,
         title="h2inc-AI "+ver,
