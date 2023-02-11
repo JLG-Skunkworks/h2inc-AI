@@ -4,7 +4,7 @@ class H2incAi:
     """
     def __init__(self, name):
         self.name = name
-        self.ai_version = "0.0.3"
+        self.ai_version = "0.0.4"
         self.ai_copyright = "Copyright (c) 2023"
         self.ai_author = "Jan Lerking"
         self.ai_contact = "github.com/Lerking"
