@@ -1,13 +1,12 @@
 '''This is the main GUI file for h2inc-AI'''
-import globvar
 import gi
-
 gi.require_version("Gtk", "4.0")
 from gi.repository import Gtk, Gio, GObject  # noqa
 
 
 
 class DataObject(GObject.GObject):
+    """_summary_"""
     def __init__(self, fruit: str, color: str):
         """_summary_
 
@@ -42,7 +41,13 @@ def bind_color(widget, item):
 
 
 def on_activate(app):
-    ver = globvar.AI_CLASS.getVersion()
+    """_summary_
+
+    Args:
+        app (_type_): _description_
+    """
+    import globvar
+    ver = globvar.AI.get_version()
     win = Gtk.ApplicationWindow(
         application=app,
         title="h2inc-AI "+ver,

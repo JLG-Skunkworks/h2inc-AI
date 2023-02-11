@@ -1,20 +1,30 @@
 
-class H2INC_AI:
+class H2incAi:
+    """_summary_
+    """
     def __init__(self, name):
         self.name = name
-        self.Version = "0.0.2"
-        self.Copyright = "Copyright (c) 2023"
-        self.Author = "Jan Lerking"
-        self.Contact = "github.com/Lerking"
+        self.ai_version = "0.0.3"
+        self.ai_copyright = "Copyright (c) 2023"
+        self.ai_author = "Jan Lerking"
+        self.ai_contact = "github.com/Lerking"
         
-    def getVersion(self):
-        return self.Version
+    def get_version(self):
+        """_summary_"""
+        return self.ai_version
     
-    def getAuthor(self):
-        return self.Author
+    def get_author(self):
+        """_summary_"""
+        return self.ai_author
     
-    def getContact(self):
-        return self.Contact
+    def get_contact(self):
+        """_summary_
+
+        Returns:
+            _type_: _description_
+        """
+        return self.ai_contact
     
-    def getCopyright(self):
-        return self.Copyright
+    def get_copyright(self):
+        """_summary_"""
+        return self.ai_copyright
