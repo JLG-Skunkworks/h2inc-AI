@@ -13,8 +13,8 @@ An attempt to create a machine learning algorithm for translating C header files
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues?q=is%3Aissue+is%3Aclosed)
 [![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/h2inc-AI)]()
 
-[![GitHub pull requests](https://img.shields.io/github/pulls/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pulls/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub open pull requests](https://img.shields.io/github/pulls/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pulls?q=is%3Apr+is%3Aopen)
+[![GitHub closed pull requests](https://img.shields.io/github/pulls/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pulls?q=is%3Apr+is%3Aclosed)
 
 Coding time for the last 30 days.</br>
 [![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83)
