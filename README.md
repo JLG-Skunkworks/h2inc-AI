@@ -6,6 +6,9 @@ An attempt to create a machine learning algorithm for translating C header files
 [![GitHub forks](https://img.shields.io/github/forks/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/network/)
 [![GitHub stars](https://img.shields.io/github/stars/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/watchers/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pull/)
+[![GitHub total-pull-requests](https://badgen.net/github/prs/JLG-Skunkworks/h2inc-AI)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pull/)
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/JLG-Skunkworks/h2inc-AI)](https://github.com/JLG-Skunkworks/h2inc-AI/pulls?q=is%3Aopen)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
