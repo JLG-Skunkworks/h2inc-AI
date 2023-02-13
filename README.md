@@ -1,11 +1,28 @@
 # h2inc-AI
 An attempt to create a machine learning algorithm for translating C header files into assembly include files.
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/StrapDown.js/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
-[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
-[![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/h2inc-AI)]()
+# test-public
+[![GitHub forks](https://img.shields.io/github/forks/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/network/)
+[![GitHub stars](https://img.shields.io/github/stars/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/watchers/)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI.github.io/graphs/commit-activity)
+
+[![GitHub issues](https://img.shields.io/github/issues/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues?q=is%3Aissue+is%3Aclosed)
+[![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/test-public)]()
+
+[![GitHub ](https://img.shields.io/github/issues/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/issues?q=is%3Aissue+is%3Aclosed)
+
+Coding time for the last 30 days.</br>
+[![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/211ffb9c-81fc-4187-a834-aa7b107a2055.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/211ffb9c-81fc-4187-a834-aa7b107a2055)
+
+See the wiki for usage and examples.
+[test-public wiki page](https://github.com/JLG-Skunkworks/h2inc-AI/wiki)
+
 
 Coding time for the last 30 days.</br>
 [![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83)
