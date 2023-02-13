@@ -1,6 +1,8 @@
 # h2inc-AI
 An attempt to create a machine learning algorithm for translating C header files into assembly include files.
 
+[![GitHub license](https://img.shields.io/github/license/JLG-Skunkworks/h2inc-AI.svg)](https://github.com/JLG-Skunkworks/h2inc-AI/blob/master/LICENSE)
+
 [![GitHub forks](https://img.shields.io/github/forks/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/network/)
 [![GitHub stars](https://img.shields.io/github/stars/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/JLG-Skunkworks/h2inc-AI.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/watchers/)
