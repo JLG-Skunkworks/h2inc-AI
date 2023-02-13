@@ -16,9 +16,7 @@ An attempt to create a machine learning algorithm for translating C header files
 [![Github file count](https://img.shields.io/github/directory-file-count/JLG-Skunkworks/h2inc-AI)]()
 
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pull/)
-[![GitHub pull-requests-closed](https://img.shields.io/github/issues-closed-pr/JLG-Skunkworks/h2inc-AI.svg)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pull/)
 [![GitHub total-pull-requests](https://badgen.net/github/prs/JLG-Skunkworks/h2inc-AI)](https://GitHub.com/JLG-Skunkworks/h2inc-AI/pull/)
-[![GitHub open-pull-requests](https://badgen.net/github/open-prs/JLG-Skunkworks/h2inc-AI)](https://github.com/JLG-Skunkworks/h2inc-AI/pulls?q=is%3Aopen)
 
 Coding time for the last 30 days.</br>
 [![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/6cc5eb09-cd1a-4dab-a58d-ee38993b0c83)
